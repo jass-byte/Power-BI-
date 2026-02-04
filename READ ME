@@ -1,0 +1,86 @@
+# 🚗 Car Sales Dashboard – README
+
+## 📌 Project Overview
+
+The **Car Sales Dashboard** offers a consolidated, interactive view of automotive sales across **time, regions, dealers, brands, customers, and products**. It is built to support **executive-level decision-making** using industry-standard KPIs and time intelligence.
+
+---
+
+## 🎯 Business Problem
+
+Sales leadership needed:
+
+* A single source of truth for sales performance
+* Clear comparison of **YTD / MTD vs previous periods**
+* Visibility into **regional, dealer, and brand performance**
+* Insights into **customer preferences**
+
+**Objective:** Enable fast, data-driven decisions through a unified dashboard.
+
+---
+
+## 🧩 Solution Summary
+
+The dashboard provides:
+
+* Executive KPIs for instant performance tracking
+* Time intelligence (YTD, MTD, PYTD, PMTD)
+* Multi-dimensional analysis (region, dealer, company, model)
+* Interactive slicers for self-service analytics
+* Clean, presentation-ready design
+
+---
+
+## 📊 Dashboard Pages & Insights
+
+### 🟢 Page 1: Executive Overview
+
+**KPIs:** Cars Sold (24K), YTD Sales ($371.19M), PYTD ($300M), MTD ($54.28M), PMTD ($44.98M), YoY Growth (23.59%), MoM Growth (20.67%).
+
+**Insight:** Strong YoY and MoM growth indicate healthy business momentum.
+
+---
+
+### 🟢 Page 2: Sales Performance Analysis
+
+* **Region Map:** Highlights high-performing dealer regions.
+* **Company Ranking:** Chevrolet, Ford, and Dodge lead YTD sales.
+* **Monthly Trend:** Clear seasonality with peak sales in Nov–Dec.
+* **Gender Split:** Male customers contribute ~77% of total sales.
+* **Body Style:** SUVs are the top-selling category.
+* **Color Preference:** Pale White and Black dominate demand.
+
+---
+
+### 🟢 Page 3: Dealer & Model Deep Dive
+
+* **Dealer Matrix:** Compares dealer performance across regions.
+* **Model Ranking:** Identifies top and low-performing models.
+* **Decomposition Tree:** Breaks sales by Gender → Company → Model.
+* **Slicers:** Gender, Company, Dealer, Region for dynamic filtering.
+
+---
+
+## 🛠 Tools & Skills Used
+
+* Power BI Desktop
+* DAX (YTD, MTD, YoY, MoM, Averages)
+* Data Modeling & Relationships
+* Advanced visuals (Map, Treemap, Decomposition Tree)
+
+---
+
+## 💼 Business Value
+
+* Faster executive insights
+* Improved regional and dealer accountability
+* Better inventory and marketing decisions
+* Scalable dashboard design
+
+---
+
+## 🚀 Future Enhancements
+
+* Profit & margin analysis
+* Forecasting & trend prediction
+* Customer segmentation
